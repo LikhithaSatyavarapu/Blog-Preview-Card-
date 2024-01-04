@@ -79,7 +79,7 @@ Areas for future development include:
 ### Useful resources
 
 Resources that proved beneficial in completing this challenge:
--[Frontend Mentor](https://www.frontendmentor.io?ref=challenge): The challenges on Frontend Mentor served as an engaging platform, allowing me to refine my front-end development skills through practical, real-world projects.
+- [Frontend Mentor](https://www.frontendmentor.io?ref=challenge): The challenges on Frontend Mentor served as an engaging platform, allowing me to refine my front-end development skills through practical, real-world projects.
 
 - [Google Fonts](https://fonts.google.com/): Leveraging the diverse font options from Google Fonts significantly improved the typography of the Blog Preview Card, contributing to a visually appealing and well-designed user interface.
 
